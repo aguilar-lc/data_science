@@ -23,7 +23,7 @@ A vivência profissional adquirida, em junção com a busca pelo conhecimento e 
 
 ## Projetos:
 
-* **Machine Learning para detectar a coloração do vinho::** https://bit.ly/2L2cMwy
+* **Machine Learning para Classificação de Vinhos::** https://bit.ly/2L2cMwy
 
 
 ---
