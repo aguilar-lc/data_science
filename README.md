@@ -10,28 +10,21 @@
 # Lílian Cândido
 <sub>*Estudante Data Science* </sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Originalmente graduada em Tecnologia de Alimentos com 13 anos de experiência em monitoramento de dados do Controle de Qualidade e Segurança dos Alimentos. A rotina desempenhada na área de qualidade permitiu o desenvolvimento de habilidades de análise, pesquisa e aplicação de storytelling com dados focados em resolução de problemas e direcionamento para tomada de decisão. A dinâmica do dia a dia também permitiu obter as habilidades de comunicação e trabalho em equipe.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+A vivência profissional adquirida, em junção com a busca pelo conhecimento e aprofundamento em análise de dados, me direcionou para a busca atual pela transição de carreira da área de Qualidade para Data Science.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Linguagens e Ferramentas:** Python, Machine Learning, SQL, e desenvolvendo aprendizado em Estatística.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [LinkedIn](https://www.linkedin.com/in/liliancandido/)
+* [Medium](https://medium.com/@liliancandido)
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* **Machine Learning para detectar a coloração do vinho::** https://bit.ly/2L2cMwy
+
 
 ---
 
