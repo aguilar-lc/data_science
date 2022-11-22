@@ -10,7 +10,7 @@
 # Lílian Cândido
 <sub>*Estudante Data Science* </sub>
 
-Originalmente graduada em Tecnologia de Alimentos com 13 anos de experiência em monitoramento de dados do Controle de Qualidade e Segurança dos Alimentos. A rotina desempenhada na área de qualidade permitiu o desenvolvimento de habilidades de análise, pesquisa e aplicação de storytelling com dados focados em resolução de problemas e direcionamento para tomada de decisão. A dinâmica do dia a dia também permitiu obter as habilidades de comunicação e trabalho em equipe.
+Com mais de 13 anos de experiência em monitoramento de dados do Controle de Qualidade e Segurança dos Alimentos. A rotina desempenhada na área de qualidade permitiu o desenvolvimento de habilidades de análise, pesquisa e aplicação de storytelling com dados focados em resolução de problemas e direcionamento para tomada de decisão. A dinâmica do dia a dia também permitiu obter as habilidades de comunicação e trabalho em equipe.
 
 A vivência profissional adquirida, em junção com a busca pelo conhecimento e aprofundamento em análise de dados, me direcionou para a busca atual pela transição de carreira da área de Qualidade para Data Science.
 
