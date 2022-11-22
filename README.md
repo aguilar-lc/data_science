@@ -23,7 +23,11 @@ Mais precisamente nos últimos 3 anos, atuei diretamente com análise de dados d
 
 ## Projetos:
 
+* **Análise de Dados de Recursos Humanos:** http://bit.ly/3OuQDWM
 * **Machine Learning para Classificação de Vinhos:** http://bit.ly/3tRakyA
+
+
+
 
 
 ---
